@@ -1,0 +1,8 @@
+source https://api.nuget.org/v3/index.json
+
+storage: packages
+framework: netcore3.0, netstandard2.0, netstandard2.1
+
+//nuget XPlot.GoogleCharts
+nuget XPlot.Plotly
+//nuget FSharp.Charting
